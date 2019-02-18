@@ -41,7 +41,7 @@ If manifest file describes only one file, array declaration can be omitted.
 * `Albums` - an array of albums this song belongs to. It's not possible to create new albums, because technical limitations, all album ids listed below. At least one album should be present. If albums listed do not exist, track still will be available trough all songs cassette.  
   List of visible albums: `talesofosm`, `chickenpartymix`, `yponeko`, `dubmood`, `zabutom`, `helloworld`, `leplancton`
 * `ChallengeName` - optional. Allows to set specific challenge background to the song. See list below for possible values. If not set, mod will use charcode of first letter in song ID to determine challenge index.
-  <details open><summary>List of songs</summary>
+  <details><summary>List of songs</summary>
   
   * Challenge (in-game number): `ID`
   * 1: `runningthroughfields`
